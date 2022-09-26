@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "colour": "^0.7.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}

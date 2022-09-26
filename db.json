@@ -1,0 +1,68 @@
+{
+    "deves" : [
+        {
+            "id" : 1,
+            "name" : "Joy Sarker",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 2,
+            "name" : "Tuhid Bin Azam",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 3,
+            "name" : "Naiam",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 4,
+            "name" : "Asraful haue",
+            "skill" : "MERN Stack"
+        }
+    ],
+    "Student" : [
+        {
+            "id" : 1,
+            "name" : "Joy Sarker",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 2,
+            "name" : "Tuhid Bin Azam",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 3,
+            "name" : "Naiam",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 4,
+            "name" : "Asraful haue",
+            "skill" : "MERN Stack"
+        }
+    ],
+    "Catagory" : [
+        {
+            "id" : 1,
+            "name" : "Joy Sarker",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 2,
+            "name" : "Tuhid Bin Azam",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 3,
+            "name" : "Naiam",
+            "skill" : "MERN Stack"
+        },
+        {
+            "id" : 4,
+            "name" : "Asraful haue",
+            "skill" : "MERN Stack"
+        }
+    ]
+}
